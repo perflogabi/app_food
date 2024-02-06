@@ -26,7 +26,7 @@ class CategoriesWidget extends StatelessWidget {
                     )
                   ]),
               child: Image.asset(
-                "images/drink.png",
+                "images/drink.jpg",
                 width: 50,
                 height: 50,
               ),
